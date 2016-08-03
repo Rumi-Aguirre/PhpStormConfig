@@ -1,4 +1,7 @@
 <keymap version="1" name="NetBeans copy" parent="NetBeans 6.5">
+  <action id="ActivateTerminalToolWindow">
+    <keyboard-shortcut first-keystroke="alt 2" />
+  </action>
   <action id="EditorDuplicate">
     <keyboard-shortcut first-keystroke="ctrl d" />
   </action>
