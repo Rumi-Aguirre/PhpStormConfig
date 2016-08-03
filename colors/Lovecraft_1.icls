@@ -747,6 +747,7 @@
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="e29e36" />
+        <option name="BACKGROUND" value="2c5d94" />
       </value>
     </option>
     <option name="MESSAGE_ARGUMENT">
