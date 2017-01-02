@@ -1,0 +1,9 @@
+<toolSet name="External Tools">
+  <tool name="PHP Standard fixer" description="Detecta y corrige código PHP para adaptarse a los estándares PSR" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="php-cs-fixer" />
+      <option name="PARAMETERS" value="fix $FileDir$/$FileName$" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
+    </exec>
+  </tool>
+</toolSet>
