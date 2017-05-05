@@ -14,12 +14,23 @@
       <mask>*.mxml</mask>
       <mask>*. php</mask>
       <mask>*</mask>
-      <mask>*.</mask>
       <mask>*.scss</mask>
       <mask>*.*</mask>
-      <mask>*.js</mask>
       <mask>*php</mask>
+      <mask>*.js</mask>
+      <mask>*.j</mask>
       <mask>*.php</mask>
+      <mask>*.</mask>
+      <mask>*.nla</mask>
+      <mask>*.nl</mask>
+      <mask>*.n</mask>
+      <mask>*.b</mask>
+      <mask>*.bl</mask>
+      <mask>*.bla</mask>
+      <mask>*.blade</mask>
+      <mask>*.blade.</mask>
+      <mask>*.blade.ph</mask>
+      <mask>*.blade.php</mask>
     </recentFileMasks>
   </component>
 </application>
