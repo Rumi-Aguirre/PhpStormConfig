@@ -22,7 +22,6 @@
       <mask>*.n</mask>
       <mask>*.blade</mask>
       <mask>*.blade.ph</mask>
-      <mask>*.js</mask>
       <mask>*.j</mask>
       <mask>*.</mask>
       <mask>*.b</mask>
@@ -34,6 +33,7 @@
       <mask>*.blade.pg</mask>
       <mask>*.blade.p</mask>
       <mask>*.blade.php</mask>
+      <mask>*.js</mask>
     </recentFileMasks>
   </component>
 </application>
