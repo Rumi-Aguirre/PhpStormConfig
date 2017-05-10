@@ -3,38 +3,37 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.js" />
     <recentFileMasks>
-      <mask>*.html</mask>
-      <mask>*.jsp</mask>
-      <mask>*.xml</mask>
-      <mask>*.java</mask>
-      <mask>*.as</mask>
-      <mask>*.css</mask>
-      <mask>*.mxml</mask>
-      <mask>*. php</mask>
-      <mask>*</mask>
-      <mask>*.scss</mask>
-      <mask>*.*</mask>
-      <mask>*php</mask>
-      <mask>*.php</mask>
       <mask>*.nla</mask>
       <mask>*.nl</mask>
       <mask>*.n</mask>
-      <mask>*.blade</mask>
       <mask>*.blade.ph</mask>
       <mask>*.j</mask>
-      <mask>*.</mask>
       <mask>*.b</mask>
-      <mask>*.bl</mask>
-      <mask>*.bla</mask>
-      <mask>*.blade.</mask>
       <mask>*.blade.pghp</mask>
       <mask>*.blade.pgh</mask>
       <mask>*.blade.pg</mask>
       <mask>*.blade.p</mask>
-      <mask>*.blade.php</mask>
       <mask>*.js</mask>
+      <mask>.bl</mask>
+      <mask>.bla</mask>
+      <mask>.blade.php</mask>
+      <mask>.blade.</mask>
+      <mask>.blade</mask>
+      <mask>.</mask>
+      <mask>*</mask>
+      <mask>*.bladsew</mask>
+      <mask>*.bladse</mask>
+      <mask>*.blads</mask>
+      <mask>*.blad</mask>
+      <mask>*.bladde.</mask>
+      <mask>*.bladde</mask>
+      <mask>*.</mask>
+      <mask>*.bl</mask>
+      <mask>*.bla</mask>
+      <mask>*.blade</mask>
+      <mask>*.blade.</mask>
+      <mask>*.blade.php</mask>
     </recentFileMasks>
   </component>
 </application>
