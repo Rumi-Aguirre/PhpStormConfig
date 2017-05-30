@@ -4,7 +4,7 @@
     <property name="created">2017-05-29T12:29:43</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2016.3.3.0.0</property>
-    <property name="modified">2017-05-30T16:08:27</property>
+    <property name="modified">2017-05-30T17:04:14</property>
     <property name="originalScheme">_@user_Material Theme - Default</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
@@ -50,7 +50,7 @@
     <option name="NOTIFICATION_BACKGROUND" value="3d1a11" />
     <option name="RIGHT_MARGIN_COLOR" value="2e3c43" />
     <option name="SELECTED_TEARLINE_COLOR" value="99b89d" />
-    <option name="SELECTION_BACKGROUND" value="314549" />
+    <option name="SELECTION_BACKGROUND" value="3f595e" />
     <option name="SOFT_WRAP_SIGN_COLOR" value="4f6269" />
     <option name="TEARLINE_COLOR" value="3b4950" />
     <option name="WHITESPACES" value="2e3c43" />
@@ -214,9 +214,27 @@
         <option name="FOREGROUND" value="cdcd00" />
       </value>
     </option>
+    <option name="CSS.BAD_CHARACTER">
+      <value>
+        <option name="EFFECT_COLOR" value="ff5370" />
+        <option name="EFFECT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="CSS.BRACES">
+      <value>
+        <option name="FOREGROUND" value="cad3de" />
+      </value>
+    </option>
     <option name="CSS.BRACKETS">
       <value>
         <option name="FOREGROUND" value="c792ea" />
+      </value>
+    </option>
+    <option name="CSS.COLON">
+      <value>
+        <option name="FOREGROUND" value="c3cee3" />
+        <option name="BACKGROUND" value="263238" />
+        <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
     <option name="CSS.COLOR">
@@ -279,6 +297,16 @@
     <option name="CSS.PSEUDO">
       <value>
         <option name="FOREGROUND" value="ffc251" />
+      </value>
+    </option>
+    <option name="CSS.SEMICOLON">
+      <value>
+        <option name="FOREGROUND" value="cc7832" />
+      </value>
+    </option>
+    <option name="CSS.STRING">
+      <value>
+        <option name="FOREGROUND" value="add5e8" />
       </value>
     </option>
     <option name="CSS.TAG_NAME">
