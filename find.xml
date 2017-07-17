@@ -4,8 +4,6 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>*.cs</mask>
-      <mask>*.css</mask>
       <mask>*</mask>
       <mask>*.jshp</mask>
       <mask>*.jsp</mask>
@@ -24,7 +22,6 @@
       <mask>*.blade.pg</mask>
       <mask>*.scsp</mask>
       <mask>*.scssp</mask>
-      <mask>*.js</mask>
       <mask>*.j</mask>
       <mask>*.</mask>
       <mask>*.scs</mask>
@@ -34,6 +31,9 @@
       <mask>*.blade.</mask>
       <mask>*.blade.php</mask>
       <mask>js-beUpload-image-modal</mask>
+      <mask>.</mask>
+      <mask>.js</mask>
+      <mask>*.js</mask>
     </recentFileMasks>
   </component>
 </application>
