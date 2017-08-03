@@ -27,13 +27,13 @@
       <mask>*Control.php</mask>
       <mask>*Controller.php</mask>
       <mask>*</mask>
-      <mask>*.php</mask>
       <mask>*.j</mask>
       <mask>*.</mask>
       <mask>*.js</mask>
       <mask>*.s</mask>
       <mask>*.scs</mask>
       <mask>*.scss</mask>
+      <mask>*.php</mask>
     </recentFileMasks>
   </component>
 </application>
