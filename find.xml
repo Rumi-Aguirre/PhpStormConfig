@@ -5,7 +5,7 @@
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.scss" />
+    <option name="FILE_MASK" value="*.php" />
     <recentFileMasks>
       <mask>.js</mask>
       <mask>*.bladee</mask>
@@ -21,7 +21,6 @@
       <mask>*Controller.php</mask>
       <mask>*.s</mask>
       <mask>*.scs</mask>
-      <mask>*.php</mask>
       <mask>js</mask>
       <mask>*.js</mask>
       <mask>*.j</mask>
@@ -37,6 +36,7 @@
       <mask>*:scs</mask>
       <mask>*:scss</mask>
       <mask>*.scss</mask>
+      <mask>*.php</mask>
     </recentFileMasks>
   </component>
 </application>
