@@ -5,11 +5,8 @@
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.scss" />
     <recentFileMasks>
-      <mask>*.scsp</mask>
-      <mask>*.scssp</mask>
-      <mask>js-beUpload-image-modal</mask>
-      <mask>.</mask>
       <mask>.js</mask>
       <mask>*.bladee</mask>
       <mask>*.blad</mask>
@@ -24,10 +21,8 @@
       <mask>*Controller.php</mask>
       <mask>*.s</mask>
       <mask>*.scs</mask>
-      <mask>*.scss</mask>
       <mask>*.php</mask>
       <mask>js</mask>
-      <mask>*</mask>
       <mask>*.js</mask>
       <mask>*.j</mask>
       <mask>*.</mask>
@@ -36,6 +31,12 @@
       <mask>*.blade.</mask>
       <mask>*.blade.p</mask>
       <mask>*.blade.php</mask>
+      <mask>*</mask>
+      <mask>*:</mask>
+      <mask>*:s</mask>
+      <mask>*:scs</mask>
+      <mask>*:scss</mask>
+      <mask>*.scss</mask>
     </recentFileMasks>
   </component>
 </application>
