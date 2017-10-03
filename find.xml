@@ -23,7 +23,6 @@
       <mask>*:scss</mask>
       <mask>*</mask>
       <mask>*.jsp</mask>
-      <mask>*.js</mask>
       <mask>*.b</mask>
       <mask>*..php</mask>
       <mask>*.blaphp</mask>
@@ -34,6 +33,7 @@
       <mask>*.scs</mask>
       <mask>*.scss</mask>
       <mask>*.php</mask>
+      <mask>*.js</mask>
     </recentFileMasks>
   </component>
 </application>
