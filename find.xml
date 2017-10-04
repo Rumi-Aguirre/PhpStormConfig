@@ -3,10 +3,8 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.js" />
     <recentFileMasks>
-      <mask>*.blad</mask>
-      <mask>*.blka</mask>
-      <mask>*.blk</mask>
       <mask>*.bl</mask>
       <mask>*C.php</mask>
       <mask>*Contro.php</mask>
@@ -21,17 +19,20 @@
       <mask>*:s</mask>
       <mask>*:scs</mask>
       <mask>*:scss</mask>
-      <mask>*</mask>
       <mask>*.jsp</mask>
       <mask>*.b</mask>
-      <mask>*..php</mask>
       <mask>*.blaphp</mask>
-      <mask>*.blade.</mask>
-      <mask>*.blade.php</mask>
-      <mask>*.</mask>
       <mask>*.s</mask>
       <mask>*.scs</mask>
       <mask>*.scss</mask>
+      <mask>*.</mask>
+      <mask>*bla</mask>
+      <mask>*bl</mask>
+      <mask>*b</mask>
+      <mask>*</mask>
+      <mask>*.blade.</mask>
+      <mask>*.blade.php</mask>
+      <mask>*..php</mask>
       <mask>*.php</mask>
       <mask>*.js</mask>
     </recentFileMasks>
