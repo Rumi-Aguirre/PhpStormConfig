@@ -1,7 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="_c-topbar-gradient.scss" type="PLAIN_TEXT" />
+      <mapping pattern="_c-topbar-gradient.scss" type="Native" />
     </extensionMap>
   </component>
 </application>
