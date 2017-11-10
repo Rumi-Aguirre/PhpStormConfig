@@ -3,38 +3,38 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.scss" />
+    <option name="FILE_MASK" value="*.php" />
     <recentFileMasks>
-      <mask>*:scss</mask>
-      <mask>*.jsp</mask>
-      <mask>*.blaphp</mask>
-      <mask>*bla</mask>
-      <mask>*bl</mask>
-      <mask>*b</mask>
-      <mask>*.blade.pp</mask>
-      <mask>*.blade.p</mask>
-      <mask>*.sc</mask>
-      <mask>''</mask>
-      <mask>*.cs</mask>
-      <mask>*.c</mask>
-      <mask>*scs</mask>
-      <mask>*sc</mask>
-      <mask>*s</mask>
-      <mask>*.bl</mask>
-      <mask>*..php</mask>
       <mask>*</mask>
       <mask>*.</mask>
       <mask>*.bla</mask>
       <mask>*.blade</mask>
       <mask>*.blade.ph</mask>
       <mask>*.s</mask>
-      <mask>*.php</mask>
       <mask>*.b</mask>
       <mask>*.blade.</mask>
       <mask>*.blade.php</mask>
       <mask>*.js</mask>
       <mask>*.scs</mask>
       <mask>*.scss</mask>
+      <mask>*.php33.</mask>
+      <mask>*.php33..</mask>
+      <mask>*.php33..0</mask>
+      <mask>*.php33..00000000000</mask>
+      <mask>*.php33..00000000000.3</mask>
+      <mask>*.php33..00000000000.33333333333333333333</mask>
+      <mask>*.php33..00000000000.333333333333333333333</mask>
+      <mask>*.php33..00000000000.3333333333333333333330</mask>
+      <mask>*.php33..00000000000.33333333333333333333300</mask>
+      <mask>*.php33..00000000000.333333333333333333333000</mask>
+      <mask>*.php33..00000000000.333333333333333333333000002</mask>
+      <mask>*.php33..00000000000.33333333333333333333300000222222222222222222222222</mask>
+      <mask>*.php33..00000000000.33333333333333333333300000222222222222222222222222.</mask>
+      <mask>*.php33..00000000000.33333333333333333333300000222222222222222222222222..2</mask>
+      <mask>*.php33..00000000000.33333333333333333333300000222222222222222222222222..21</mask>
+      <mask>.</mask>
+      <mask>.php</mask>
+      <mask>*.php</mask>
     </recentFileMasks>
   </component>
 </application>
