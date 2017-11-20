@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.scss" />
+    <option name="FILE_MASK" value="*.js" />
     <recentFileMasks>
       <mask>*.php33..</mask>
       <mask>*.php33..0</mask>
@@ -21,10 +21,8 @@
       <mask>*.php33..00000000000.33333333333333333333300000222222222222222222222222..21</mask>
       <mask>.</mask>
       <mask>.php</mask>
-      <mask>*.php</mask>
       <mask>*.b</mask>
       <mask>*.bl</mask>
-      <mask>*.js</mask>
       <mask>*.s</mask>
       <mask>*.bla</mask>
       <mask>*.blade.</mask>
@@ -35,6 +33,8 @@
       <mask>*.blade.php</mask>
       <mask>*.scs</mask>
       <mask>*.scss</mask>
+      <mask>*.php</mask>
+      <mask>*.js</mask>
     </recentFileMasks>
   </component>
 </application>
