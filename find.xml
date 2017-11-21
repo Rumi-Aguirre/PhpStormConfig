@@ -3,16 +3,8 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.blade.php" />
     <recentFileMasks>
-      <mask>*.php33..</mask>
-      <mask>*.php33..0</mask>
-      <mask>*.php33..00000000000</mask>
-      <mask>*.php33..00000000000.3</mask>
-      <mask>*.php33..00000000000.33333333333333333333</mask>
-      <mask>*.php33..00000000000.333333333333333333333</mask>
-      <mask>*.php33..00000000000.3333333333333333333330</mask>
-      <mask>*.php33..00000000000.33333333333333333333300</mask>
-      <mask>*.php33..00000000000.333333333333333333333000</mask>
       <mask>*.php33..00000000000.333333333333333333333000002</mask>
       <mask>*.php33..00000000000.33333333333333333333300000222222222222222222222222</mask>
       <mask>*.php33..00000000000.33333333333333333333300000222222222222222222222222.</mask>
@@ -20,20 +12,29 @@
       <mask>*.php33..00000000000.33333333333333333333300000222222222222222222222222..21</mask>
       <mask>.</mask>
       <mask>.php</mask>
-      <mask>*.b</mask>
       <mask>*.bl</mask>
       <mask>*.s</mask>
-      <mask>*.bla</mask>
-      <mask>*.blade.</mask>
       <mask>*.blade.pgp</mask>
       <mask>*.blade.pg</mask>
       <mask>*.blade.p</mask>
       <mask>*.blade.ph</mask>
-      <mask>*.blade.php</mask>
       <mask>*.scs</mask>
       <mask>*.scss</mask>
       <mask>*.php</mask>
       <mask>*.js</mask>
+      <mask>*.b</mask>
+      <mask>*.bla</mask>
+      <mask>*.blad</mask>
+      <mask>*.blad.epp</mask>
+      <mask>*.blad.ep</mask>
+      <mask>*.blad.e</mask>
+      <mask>*.blad.h</mask>
+      <mask>*.blad.</mask>
+      <mask>*.blade</mask>
+      <mask>*.blade.</mask>
+      <mask>*.blade.hp</mask>
+      <mask>*.blade.h</mask>
+      <mask>*.blade.php</mask>
     </recentFileMasks>
   </component>
 </application>
