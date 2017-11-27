@@ -2,16 +2,13 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="regularExpressions" value="true" />
-    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.blade.php" />
+    <option name="FILE_MASK" value="*.js" />
     <recentFileMasks>
       <mask>.php</mask>
       <mask>*.blade.pgp</mask>
       <mask>*.blade.ph</mask>
       <mask>*.php</mask>
-      <mask>*.js</mask>
       <mask>*.blad.epp</mask>
       <mask>*.blad.ep</mask>
       <mask>*.blad.h</mask>
@@ -37,6 +34,7 @@
       <mask>*.blade</mask>
       <mask>*.blade.</mask>
       <mask>*.blade.php</mask>
+      <mask>*.js</mask>
     </recentFileMasks>
   </component>
 </application>
