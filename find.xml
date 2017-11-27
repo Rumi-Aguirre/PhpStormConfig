@@ -5,38 +5,38 @@
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.scss" />
+    <option name="FILE_MASK" value="*.blade.php" />
     <recentFileMasks>
-      <mask>*.php33..00000000000.33333333333333333333300000222222222222222222222222..21</mask>
-      <mask>.</mask>
       <mask>.php</mask>
       <mask>*.blade.pgp</mask>
       <mask>*.blade.ph</mask>
       <mask>*.php</mask>
       <mask>*.js</mask>
-      <mask>*.b</mask>
-      <mask>*.blad</mask>
       <mask>*.blad.epp</mask>
       <mask>*.blad.ep</mask>
-      <mask>*.blad.e</mask>
       <mask>*.blad.h</mask>
-      <mask>*.blad.</mask>
       <mask>*.blade.hp</mask>
       <mask>*.blade.h</mask>
       <mask>*.s</mask>
       <mask>*</mask>
       <mask>*.</mask>
       <mask>*.bl</mask>
-      <mask>*.bla</mask>
-      <mask>*.blade</mask>
-      <mask>*.blade.</mask>
       <mask>*.blade.pghp</mask>
       <mask>*.blade.pgh</mask>
       <mask>*.blade.pg</mask>
       <mask>*.blade.p</mask>
-      <mask>*.blade.php</mask>
       <mask>*.scs</mask>
       <mask>*.scss</mask>
+      <mask>*.b</mask>
+      <mask>*.bla</mask>
+      <mask>*.blad.e</mask>
+      <mask>*.blad.eph</mask>
+      <mask>*.blad.ephp</mask>
+      <mask>*.blad.</mask>
+      <mask>*.blad</mask>
+      <mask>*.blade</mask>
+      <mask>*.blade.</mask>
+      <mask>*.blade.php</mask>
     </recentFileMasks>
   </component>
 </application>
