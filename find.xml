@@ -20,8 +20,6 @@
       <mask>*.blad</mask>
       <mask>*.scsp</mask>
       <mask>*.scssp</mask>
-      <mask>*.</mask>
-      <mask>*</mask>
       <mask>*.scs</mask>
       <mask>*.scss</mask>
       <mask>*.bla</mask>
@@ -29,11 +27,13 @@
       <mask>*.pp</mask>
       <mask>*.p</mask>
       <mask>*.php</mask>
-      <mask>*.js</mask>
       <mask>*.b</mask>
       <mask>*.bl</mask>
       <mask>*.blade.</mask>
       <mask>*.blade.php</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.js</mask>
     </recentFileMasks>
   </component>
 </application>
