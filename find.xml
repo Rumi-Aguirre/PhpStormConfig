@@ -5,14 +5,11 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.blade.php" />
     <recentFileMasks>
       <mask>*.blad.h</mask>
       <mask>*.blade.hp</mask>
       <mask>*.blade.h</mask>
-      <mask>*.blade.pghp</mask>
-      <mask>*.blade.pgh</mask>
-      <mask>*.blade.pg</mask>
-      <mask>*.blade.p</mask>
       <mask>*.blad.e</mask>
       <mask>*.blad.eph</mask>
       <mask>*.blad.ephp</mask>
@@ -31,11 +28,15 @@
       <mask>*.php</mask>
       <mask>*.b</mask>
       <mask>*.bl</mask>
-      <mask>*.blade.</mask>
-      <mask>*.blade.php</mask>
       <mask>*</mask>
       <mask>*.</mask>
       <mask>*.js</mask>
+      <mask>*.blade.</mask>
+      <mask>*.blade.pghp</mask>
+      <mask>*.blade.pgh</mask>
+      <mask>*.blade.pg</mask>
+      <mask>*.blade.p</mask>
+      <mask>*.blade.php</mask>
     </recentFileMasks>
   </component>
 </application>
