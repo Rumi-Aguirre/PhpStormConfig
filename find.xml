@@ -5,9 +5,9 @@
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.blade.php" />
     <recentFileMasks>
       <mask>*.pp</mask>
-      <mask>*.b</mask>
       <mask>*</mask>
       <mask>*.blade.pghp</mask>
       <mask>*.blade.pgh</mask>
@@ -28,14 +28,15 @@
       <mask>*.scs</mask>
       <mask>*.scss</mask>
       <mask>*.bl</mask>
-      <mask>*.bla</mask>
-      <mask>*.blade.</mask>
-      <mask>*.blade.php</mask>
       <mask>*.php</mask>
       <mask>*.ph</mask>
       <mask>*.p</mask>
-      <mask>*.</mask>
       <mask>*.js</mask>
+      <mask>*.</mask>
+      <mask>*.b</mask>
+      <mask>*.bla</mask>
+      <mask>*.blade.</mask>
+      <mask>*.blade.php</mask>
     </recentFileMasks>
   </component>
 </application>
