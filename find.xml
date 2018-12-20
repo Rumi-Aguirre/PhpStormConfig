@@ -9,7 +9,6 @@
       <mask>*.blade.pghp</mask>
       <mask>*.blade.pgh</mask>
       <mask>*.blade.p</mask>
-      <mask>*..php</mask>
       <mask>*.hjs</mask>
       <mask>*.hj</mask>
       <mask>*.h</mask>
@@ -25,7 +24,6 @@
       <mask>*.scs</mask>
       <mask>*.scss</mask>
       <mask>*.bl</mask>
-      <mask>*.php</mask>
       <mask>*.ph</mask>
       <mask>*.p</mask>
       <mask>*.js</mask>
@@ -34,6 +32,8 @@
       <mask>*.bla</mask>
       <mask>*.blade.</mask>
       <mask>*.blade.php</mask>
+      <mask>*..php</mask>
+      <mask>*.php</mask>
     </recentFileMasks>
   </component>
 </application>
