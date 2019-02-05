@@ -26,13 +26,13 @@
       <mask>*.kjs</mask>
       <mask>*.kj</mask>
       <mask>*.k</mask>
-      <mask>*.js</mask>
       <mask>*.j</mask>
       <mask>*.</mask>
       <mask>*.bla</mask>
       <mask>*.blade.</mask>
       <mask>*.blade.php</mask>
       <mask>*..php</mask>
+      <mask>*.js</mask>
       <mask>*.php</mask>
     </recentFileMasks>
   </component>
