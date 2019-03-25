@@ -31,9 +31,9 @@
       <mask>*.blade.ph</mask>
       <mask>*.blade.php</mask>
       <mask>*..php</mask>
-      <mask>*.php</mask>
       <mask>*.</mask>
       <mask>*.js</mask>
+      <mask>*.php</mask>
     </recentFileMasks>
   </component>
 </application>
