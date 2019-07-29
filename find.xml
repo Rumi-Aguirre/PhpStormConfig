@@ -18,7 +18,6 @@
       <mask>.</mask>
       <mask>.blade.</mask>
       <mask>.blade.php</mask>
-      <mask>*.js</mask>
       <mask>*.b</mask>
       <mask>*.bl</mask>
       <mask>*.bla</mask>
@@ -34,6 +33,7 @@
       <mask>*.</mask>
       <mask>*.scs</mask>
       <mask>*.scss</mask>
+      <mask>*.js</mask>
     </recentFileMasks>
   </component>
 </application>
