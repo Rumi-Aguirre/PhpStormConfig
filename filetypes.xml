@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="_c-topbar-gradient.scss" type="Native" />
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
+      <mapping pattern=".htpasswd" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
