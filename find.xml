@@ -5,14 +5,8 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*Controller.php" />
     <recentFileMasks>
-      <mask>p</mask>
-      <mask>*.blade.p</mask>
-      <mask>*.blade.pp</mask>
-      <mask>*.blade.ph</mask>
-      <mask>*.bladphp</mask>
-      <mask>*.bladephp</mask>
-      <mask>*.p</mask>
       <mask>*.pp</mask>
       <mask>*.s</mask>
       <mask>.</mask>
@@ -36,6 +30,13 @@
       <mask>*.</mask>
       <mask>*.j</mask>
       <mask>*.js</mask>
+      <mask>*C.js</mask>
+      <mask>*Contro.js</mask>
+      <mask>*Control.js</mask>
+      <mask>*Controller.js</mask>
+      <mask>*Controller.s</mask>
+      <mask>*Controller.</mask>
+      <mask>*Controller.php</mask>
     </recentFileMasks>
   </component>
 </application>
