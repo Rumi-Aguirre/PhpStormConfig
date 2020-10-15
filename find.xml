@@ -6,11 +6,6 @@
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>.blade.</mask>
-      <mask>.blade.php</mask>
-      <mask>*.b</mask>
-      <mask>*.bl</mask>
-      <mask>*.bla</mask>
       <mask>*.blade.</mask>
       <mask>*.bphp</mask>
       <mask>*.blaphp</mask>
@@ -25,7 +20,6 @@
       <mask>*</mask>
       <mask>*.</mask>
       <mask>*.j</mask>
-      <mask>*.js</mask>
       <mask>*C.js</mask>
       <mask>*Contro.js</mask>
       <mask>*Control.js</mask>
@@ -36,6 +30,12 @@
       <mask>*b.php</mask>
       <mask>*bla.php</mask>
       <mask>*blade.php</mask>
+      <mask>*js.php</mask>
+      <mask>*jsphp</mask>
+      <mask>*jshp</mask>
+      <mask>*jsp</mask>
+      <mask>*js</mask>
+      <mask>*.js</mask>
     </recentFileMasks>
   </component>
 </application>
