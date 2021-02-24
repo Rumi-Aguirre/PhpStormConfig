@@ -29,11 +29,11 @@
       <mask>*jshp</mask>
       <mask>*jsp</mask>
       <mask>*js</mask>
-      <mask>*.js</mask>
       <mask>*.p</mask>
       <mask>*.pho</mask>
       <mask>*.ph</mask>
       <mask>*.php</mask>
+      <mask>*.js</mask>
     </recentFileMasks>
   </component>
 </application>
