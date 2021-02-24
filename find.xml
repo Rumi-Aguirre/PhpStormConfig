@@ -11,8 +11,6 @@
       <mask>*.scss</mask>
       <mask>*.blade.php</mask>
       <mask>*..php</mask>
-      <mask>*</mask>
-      <mask>*.</mask>
       <mask>*.j</mask>
       <mask>*C.js</mask>
       <mask>*Contro.js</mask>
@@ -32,8 +30,10 @@
       <mask>*.p</mask>
       <mask>*.pho</mask>
       <mask>*.ph</mask>
-      <mask>*.php</mask>
       <mask>*.js</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.php</mask>
     </recentFileMasks>
   </component>
 </application>
