@@ -20,9 +20,7 @@
       <mask>*.ph</mask>
       <mask>*.p</mask>
       <mask>*.j</mask>
-      <mask>*</mask>
       <mask>*.c</mask>
-      <mask>*.</mask>
       <mask>*.cs</mask>
       <mask>*.css</mask>
       <mask>*.s</mask>
@@ -32,8 +30,10 @@
       <mask>*.sass</mask>
       <mask>php</mask>
       <mask>*php</mask>
-      <mask>*.php</mask>
       <mask>*.js</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.php</mask>
     </recentFileMasks>
   </component>
 </application>
