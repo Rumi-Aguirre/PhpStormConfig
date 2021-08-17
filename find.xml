@@ -28,12 +28,12 @@
       <mask>scs</mask>
       <mask>scss</mask>
       <mask>*scss</mask>
-      <mask>*.js</mask>
       <mask>*</mask>
       <mask>*.</mask>
       <mask>*.sc</mask>
       <mask>*.scs</mask>
       <mask>*.scss</mask>
+      <mask>*.js</mask>
     </recentFileMasks>
   </component>
 </application>
